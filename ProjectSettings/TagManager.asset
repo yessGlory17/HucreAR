@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ImageTarget
+  - ActiveModel
+  - EndoplazmikRetikulum
+  - Golgi
+  - Cekirdek
+  - Sentrozom
+  - Sitoplazma
+  - Mitokondri
+  - Ribozom
+  - Lizozom
+  - Lizozom2
+  - Mitokondri2
+  - Mitokondri3
+  - HucreZari
+  - SceneLoaderScreen2
+  - ScreenLoaderScreen2Anim
+  - SceneLoaderScreen2Anim
+  - Kloroplast
+  - Koful
+  - Ceper
+  - Kloroplast2
+  - Kloroplast3
+  - Kloroplast4
+  - Endoplazmikretikulum2
+  - Endoplazmikretikulum3
+  - Endoplazmikretikulum4
+  - Endoplazmikretikulum5
+  - Endoplazmikretikulum6
+  - Endoplazmikretikulum7
+  - Endoplazmikretikulum
+  - Kloroplast5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
