@@ -100,9 +100,13 @@ Orgenele dokunarak açtığınız bilgi ekranında bu buton ile bilgi ekranını
 
 ## Ekran Görüntüleri
 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142428.png" alt="" width="167"> <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142436.png" alt="" width="166"> <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143045.png" alt="" width="166"> <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143059.png" alt="" width="165"> <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143113.png" alt="" width="165"> <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143238.png" alt="" width="165">
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142428.png" alt="" width="167"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142436.png" alt="" width="166"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143045.png" alt="" width="166"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143059.png" alt="" width="165"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143113.png" alt="" width="165"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143238.png" alt="" width="165">
 
-## 
 
 
 
