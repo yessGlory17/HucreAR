@@ -58,7 +58,7 @@ Bu ikona basarak organellerin isimlerini gizleyebilirsiniz.
 
 ##### Menü
 
-![Menu](https://github.com/yessGlory17/HucreAR/tree/blob/Assets/UI/Component%2013%20–%201.png)
+![Menu](https://github.com/yessGlory17/HucreAR/blob/blob/Assets/UI/Component%2013%20–%201.png)
 
 Bu ikona basarak uygulamanın ilk anında hücre seçim ve quiz ekranına gidebilirsiniz. 
 
