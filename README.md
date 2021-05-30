@@ -39,7 +39,7 @@ Aşağıdaki fotoğrafta yer alan markerı isterseniz yazdırıp isterseniz de i
 
 ##### Etiketleri Gösterme
 
-![Etiketler](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%209%20–%201.png)
+![Etiketler](https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Component%209%20–%201.png)
 
 Bu ikona basarak her organelin etiketlerini (isimlerini) görüntüleyebilirsiniz. Bu ikona bastığınızda ikon kendini değiştirerek gizleme ikonu olacaktır.
 
@@ -47,7 +47,7 @@ Bu ikona basarak her organelin etiketlerini (isimlerini) görüntüleyebilirsini
 
 ##### Etiketleri Gizleme
 
-![Etiket Image](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%202%20–%201.png)
+![Etiket Image](https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Component%202%20–%201.png)
 
 
 
@@ -57,7 +57,7 @@ Bu ikona basarak organellerin isimlerini gizleyebilirsiniz.
 
 ##### Menü
 
-![Menu](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%2013%20–%201.png)
+![Menu](https://github.com/yessGlory17/HucreAR/tree/blob/Assets/UI/Component%2013%20–%201.png)
 
 Bu ikona basarak uygulamanın ilk anında hücre seçim ve quiz ekranına gidebilirsiniz. 
 
@@ -65,9 +65,9 @@ Bu ikona basarak uygulamanın ilk anında hücre seçim ve quiz ekranına gidebi
 
 ##### İleri ve Geri
 
-![İleri Geri](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%205%20–%201.png)
+![İleri Geri](https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Component%205%20–%201.png)
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%204%20–%201.png" title="" alt="" data-align="center">
+<img src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Component%204%20–%201.png" title="" alt="" data-align="center">
 
 Orgenele dokunarak açtığınız bilgi ekranında bu butonlar ile organel bilgilerinin devamına ulaşabilirsiniz. Ve bilgiler arasında gezinebilirsiniz.
 
@@ -75,7 +75,7 @@ Orgenele dokunarak açtığınız bilgi ekranında bu butonlar ile organel bilgi
 
 ##### Kapat
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%203%20–%201.png" title="" alt="" data-align="center">
+<img src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Component%203%20–%201.png" title="" alt="" data-align="center">
 
 
 
@@ -101,12 +101,12 @@ Orgenele dokunarak açtığınız bilgi ekranında bu buton ile bilgi ekranını
 
 ## Ekran Görüntüleri
 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142428.png" alt="" width="167"> 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-142436.png" alt="" width="166"> 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143045.png" alt="" width="166"> 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143059.png" alt="" width="165"> 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143113.png" alt="" width="165"> 
-<img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Screenshot_20210517-143238.png" alt="" width="165">
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-142428.png" alt="" width="167"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-142436.png" alt="" width="166"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-143045.png" alt="" width="166"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-143059.png" alt="" width="165"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-143113.png" alt="" width="165"> 
+<img title="" src="https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/Screenshot_20210517-143238.png" alt="" width="165">
 
 
 
