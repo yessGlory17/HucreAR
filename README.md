@@ -28,7 +28,7 @@ Buradaki linkten en son sürümü apk olarak indirip kurabilirsiniz. Eğer yükl
 
 #### Marker
 
-![Marker Image](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/marker.png)
+![Marker Image](https://github.com/yessGlory17/HucreAR/blob/main/Assets/UI/marker.png)
 
 
 Aşağıdaki fotoğrafta yer alan markerı isterseniz yazdırıp isterseniz de indirip kullanabilirsiniz. Kullanmak için yazdırdığınız yada indirdiğiniz marker'ı uygulamayı çalıştırıp deneyimlemek istediğiniz hücreyi seçtikten sonra kamerayı marker'a doğru tutun. Uygulama marker'ı algılayıp modeli yaratacak. Gerisi ise sizin ne yapmak istediğinize kalmış durumda!
