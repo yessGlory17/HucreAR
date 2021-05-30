@@ -27,9 +27,9 @@ Buradaki linkten en son sürümü apk olarak indirip kurabilirsiniz. Eğer yükl
 
 
 #### Marker
-<p align="center">
-  <img title="" src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/marker.png" alt="" data-align="center" width="286">
-</p>
+
+![Marker Image](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/marker.png)
+
 
 Aşağıdaki fotoğrafta yer alan markerı isterseniz yazdırıp isterseniz de indirip kullanabilirsiniz. Kullanmak için yazdırdığınız yada indirdiğiniz marker'ı uygulamayı çalıştırıp deneyimlemek istediğiniz hücreyi seçtikten sonra kamerayı marker'a doğru tutun. Uygulama marker'ı algılayıp modeli yaratacak. Gerisi ise sizin ne yapmak istediğinize kalmış durumda!
 
@@ -39,7 +39,7 @@ Aşağıdaki fotoğrafta yer alan markerı isterseniz yazdırıp isterseniz de i
 
 ##### Etiketleri Gösterme
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%209%20–%201.png" title="" alt="" data-align="center">  
+![Etiketler](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%209%20–%201.png)
 
 Bu ikona basarak her organelin etiketlerini (isimlerini) görüntüleyebilirsiniz. Bu ikona bastığınızda ikon kendini değiştirerek gizleme ikonu olacaktır.
 
@@ -47,7 +47,7 @@ Bu ikona basarak her organelin etiketlerini (isimlerini) görüntüleyebilirsini
 
 ##### Etiketleri Gizleme
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%202%20–%201.png" title="" alt="" data-align="center">
+![Etiket Image](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%202%20–%201.png)
 
 
 
@@ -57,7 +57,7 @@ Bu ikona basarak organellerin isimlerini gizleyebilirsiniz.
 
 ##### Menü
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%2013%20–%201.png" title="" alt="" data-align="center">
+![Menu](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%2013%20–%201.png)
 
 Bu ikona basarak uygulamanın ilk anında hücre seçim ve quiz ekranına gidebilirsiniz. 
 
@@ -65,7 +65,7 @@ Bu ikona basarak uygulamanın ilk anında hücre seçim ve quiz ekranına gidebi
 
 ##### İleri ve Geri
 
-<img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%205%20–%201.png" title="" alt="" data-align="center">
+![İleri Geri](https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%205%20–%201.png)
 
 <img src="https://github.com/yessGlory17/HucreAR/tree/main/Assets/UI/Component%204%20–%201.png" title="" alt="" data-align="center">
 
